@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Anildora1999
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on developing applications
+- At present I'm looking for a job
 
 <!---
 Anildora1999/Anildora1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
